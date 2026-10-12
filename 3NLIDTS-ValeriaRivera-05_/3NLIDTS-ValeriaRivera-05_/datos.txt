@@ -1,0 +1,14 @@
+Nombres:Valeria
+Apellidos: Rivera
+Edad: 19 años 
+Estatura: 164cm
+Teléfono: 9613687151
+Género:Mujer
+
+Nombres: Valeria
+Apellidos: Rivera
+TelÃ©fono: 9613867163
+Edad: 19 aÃ±os
+Estatura: 1.64 cm
+GÃ©nero: Mujer
+-----------------------------------
